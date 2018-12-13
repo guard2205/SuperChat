@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SuperChat", "SuperChat\SuperChat.njsproj", "{39502FA5-A046-4A58-9065-0D8B4CCEF70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39502FA5-A046-4A58-9065-0D8B4CCEF70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39502FA5-A046-4A58-9065-0D8B4CCEF70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39502FA5-A046-4A58-9065-0D8B4CCEF70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39502FA5-A046-4A58-9065-0D8B4CCEF70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1819097A-40F3-43C5-A08E-8DF226F1960B}
+	EndGlobalSection
+EndGlobal

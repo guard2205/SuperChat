@@ -1,0 +1,14 @@
+{
+  "name": "super-chat",
+  "version": "0.0.0",
+  "description": "SuperChat",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "ent": "^2.2.0",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
